@@ -1,0 +1,29 @@
+{
+    "person":[
+        {
+            "name": "Sajjad",
+            "age": 25,
+            "email": "sajjad@gmail.com",
+            "phone": "+61 2 9123 4567"
+        },
+        {
+            "name": "Satish",
+            "age": 23,
+            "email": "satish@gmail.com",
+            "phone": "+61 3 8123 4568"
+        },
+        {
+            "name": "Alice",
+            "age": 28,
+            "email": "alice@gmail.com",
+            "phone": "+61 4 7123 4569"
+        },
+        {
+            "name": "Jhon",
+            "age": 26,
+            "email": "Jhon@gmail.com",
+            "phone": "+61 5 6123 4570"
+        }
+    ]
+
+}

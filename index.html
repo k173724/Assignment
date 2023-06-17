@@ -52,7 +52,7 @@
                         const name = document.querySelector('#nameInput').value;
 
                         // Finding the person in the data
-                        const person = data.person.find(person => object.name.toLowerCase() === name.toLowerCase());
+                        const person = data.person.find(object => object.name.toLowerCase() === name.toLowerCase());
 
                         // Displaying the person's details or a not-found message
                         result.innerText = person ? JSON.stringify(person, null, 2) : 'Person not found';
